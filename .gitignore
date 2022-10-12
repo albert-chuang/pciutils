@@ -6,5 +6,6 @@
 lspci
 setpci
 example
+readpci
 update-pciids
 pci.ids.gz
